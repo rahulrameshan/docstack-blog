@@ -1,0 +1,9 @@
+{
+    "route": "dont-go-out-the-airlock-7drl-2016",
+    "title": "Don't Go Out the Airlock (7DRL 2016)",
+    "oneLiner": "I made a roguelike in 7 days for the 7DRL. It's about surviving in a spaceship that's decompressing.",
+    "date": "2016-03-13 7:19:00",
+    "image": "/content/images/dgota-1-1.jpg",
+    "tags": ["Game Development", "Procedural Generation", "Programming", "Roguelike", "Indie Games"],
+    "guid": "e5663ac3-ebea-4a2a-a94b-7667fbce4246"
+}

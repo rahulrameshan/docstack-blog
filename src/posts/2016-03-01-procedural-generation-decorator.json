@@ -1,0 +1,9 @@
+{
+    "route": "making-procedural-content-look-great",
+    "title": "Making Procedural Content Look GREAT",
+    "oneLiner": "This converts plain \"walls and doors\" output into something that looks awesome",
+    "date": "2016-03-01 20:10:36",
+    "image": "/content/images/map-decorated-big.png",
+    "tags": ["Game Development", "Procedural Generation", "Programming", "Roguelike", "Indie Games"],
+    "guid": "a9200e44-a4bc-410a-bae8-b201fddaf07f"
+}
