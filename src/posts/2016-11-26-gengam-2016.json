@@ -1,9 +1,9 @@
 {
-    "route": "gengam-2016",
-    "title": "GenGam 2016",
-    "oneLiner": "Procedurally generating sprites for the #GenJam 2016",
-    "date": "2016-11-26 03:20:00",
+    "route": "Test-Blog",
+    "title": "Test-Blog",
+    "oneLiner": "Procedurally Testing the functionalities",
+    "date": "2018-04-02 03:20:00",
     "image": "/content/images/allSprites-3.png",
-    "tags": ["Procedural Generation", "Game Development", "Programming", "Indie Games"],
+    "tags": ["Test Blog", "First Blog", "Docstack", "React Static"],
     "guid": "7b5d8982-2c3c-4533-8139-074949682280"
 }

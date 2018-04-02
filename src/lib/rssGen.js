@@ -15,7 +15,7 @@ const getFeed = () => {
   });
 
   const info = {
-    title: "David York",
+    title: "Docstack",
     description: "Personal blog of David York, software engineer and indie game developer.",
     feed_url: Env.siteRoot + '/rss',
     site_url: Env.siteRoot,

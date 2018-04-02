@@ -5,13 +5,13 @@ import Env from '../../env'
 export default class SiteMetadata {
 
   static posts = [
-    '2016-11-26-gengam-2016',
-    '2016-03-13-7drl-dont-go-out-the-airlock',
+    //'2016-11-26-gengam-2016',
+    //'2016-03-13-7drl-dont-go-out-the-airlock',
     //'2016-03-01-procedural-generation-decorator',
     //'2015-10-22-L-system-fractals-with-unity',
     // '2015-05-17-micro-procedural-content-generation-queue',
     // '2015-02-29-drunken-walk-recursive',
-    '2015-02-08-drunken-walk',
+    //'2015-02-08-drunken-walk',
     // '2015-02-06-procedural-dungeon-generator',
     //'2014-08-23-blocksworld',
     //'2014-08-23-patterns',
@@ -23,13 +23,16 @@ export default class SiteMetadata {
     //'2013-02-24-roguelike-in-unity',
     //'2013-02-23-kumax',
     //'2013-02-22-lode-runner-3d',
+      'test-post-number-1',
+      'test-post-number-2',
+
   ];
 
   static tags = [
     {
-      tag: 'college',
-      title: 'College',
-      description: 'I studied computer science at the University of Washington and Western Washington University.',
+      tag: 'Test Blog',
+      title: 'Testing',
+      description: 'Testing the functionalities of Docstack blog',
       image: '/content/images/university.jpg'
     },
     {
