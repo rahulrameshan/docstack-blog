@@ -30,27 +30,27 @@ export default class SiteMetadata {
 
   static tags = [
     {
-      tag: 'Test Blog',
+      tag: 'test-blog',
       title: 'Testing',
-      description: 'Testing the functionalities of Docstack blog',
+      description: 'Testing the functionalities of tags in Docstack blog',
       image: '/content/images/university.jpg'
     },
     {
-      tag: 'game-development',
-      title: 'Game Development',
-      description: 'I have worked in the game industry as both an indie and traditional developer.',
+      tag: 'docstack',
+      title: 'Docstack',
+      description: 'The tag description for `Docstack` keyword',
       image: '/content/images/patterns1-1.jpg'
     },
     {
-      tag: 'indie-games',
-      title: 'Indie Games',
-      description: 'I worked as a full-time indie game developer from 2004-2008, and again 2016-current.',
+      tag: 'first-blog',
+      title: 'First Blog',
+      description: 'The tag description for keyword `First Blog`',
       image: '/content/images/morty4-2.jpg'
     },
     {
-      tag: 'procedural-generation',
-      title: 'Procedural Generation',
-      description: 'I love procedural generation - writing algorithms to generate worlds is so much fun!',
+      tag: 'second-blog',
+      title: 'Second blog',
+      description: 'The tag description for keyword `second Blog`',
       image: '/content/images/map-decorated-1.png'
     },
     {
